@@ -1,0 +1,6 @@
+pandas == 2.2.2
+seaborn == 0.13.2
+matplotlib == 3.9.2
+scikit-learn == 1.5.2
+regex == 2024.9.11
+tensorflow == 2.17.0
